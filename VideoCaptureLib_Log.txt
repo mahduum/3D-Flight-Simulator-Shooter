@@ -1,0 +1,18 @@
+[LOG]: [FFmpegLib]: DEST URL: /Users/coccinella/RockVR/Video/2019-04-07-15-33-46-48OT9.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/coccinella/Endless Terrain/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1198x674 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/coccinella/RockVR/Video/2019-04-07-15-33-46-48OT9.mp4"
+[LOG]: [FFmpegLib]: DEST URL: /Users/coccinella/RockVR/Video/2019-04-07-15-33-46-OQVEI.wav
+[LOG]: [FFmpegLib]: Build command: "/Users/coccinella/Endless Terrain/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f f32le -ar 44100 -ac 2 -i - -y -preset ultrafast -tune zerolatency "/Users/coccinella/RockVR/Video/2019-04-07-15-33-46-OQVEI.wav"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/coccinella/RockVR/Video/2019-04-07-15-37-23-ZL4UY.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/coccinella/Endless Terrain/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1198x674 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/coccinella/RockVR/Video/2019-04-07-15-37-23-ZL4UY.mp4"
+[LOG]: [FFmpegLib]: DEST URL: /Users/coccinella/RockVR/Video/2019-04-07-15-37-23-NGTVL.wav
+[LOG]: [FFmpegLib]: Build command: "/Users/coccinella/Endless Terrain/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f f32le -ar 44100 -ac 2 -i - -y -preset ultrafast -tune zerolatency "/Users/coccinella/RockVR/Video/2019-04-07-15-37-23-NGTVL.wav"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/coccinella/RockVR/Video/2019-04-07-15-38-34-RBL7J.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/coccinella/Endless Terrain/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1198x674 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/coccinella/RockVR/Video/2019-04-07-15-38-34-RBL7J.mp4"
+[LOG]: [FFmpegLib]: DEST URL: /Users/coccinella/RockVR/Video/2019-04-07-15-38-34-KFKUR.wav
+[LOG]: [FFmpegLib]: Build command: "/Users/coccinella/Endless Terrain/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f f32le -ar 44100 -ac 2 -i - -y -preset ultrafast -tune zerolatency "/Users/coccinella/RockVR/Video/2019-04-07-15-38-34-KFKUR.wav"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
